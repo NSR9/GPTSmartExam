@@ -89,3 +89,7 @@ Contributions are welcomed! Here's how you can help:
 3. Commit your changes: `git commit -am 'Added some feature'`.
 4. Push to the branch: `git push origin my-feature`.
 5. Submit a pull request.
+
+
+# LICENSE
+This project is licensed under the MIT License. See the LICENSE file for details.
